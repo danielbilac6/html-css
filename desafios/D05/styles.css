@@ -1,0 +1,81 @@
+/* Estilo geral */
+body {
+    background-image: linear-gradient(to right, #324162, #7EA3C8 );
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Título principal */
+h1 {
+    text-align: center;
+    color: #371d66;
+    margin-top: 20px;
+}
+
+/* Subtítulos */
+h2 {
+    text-align: center;
+    color: #dabeff;
+    margin: 20px 0 10px;
+}
+
+/* Parágrafos */
+p {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto 20px;
+    color: #371d66;
+}
+
+/* Imagem de perfil */
+img {
+    display: block;
+    max-width: 150px;
+    margin: 10px auto;
+    border-radius: 50%;
+    border: 3px solid #5e1d64;
+}
+
+/* Lista de redes sociais */
+ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+li {
+    margin: 15px 0;
+    font-size: 18px;
+}
+
+/* Ícones */
+li img {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+/* Links */
+a {
+    color: #5d3099;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+/* Fundo e margem geral */
+body {
+    margin: 0;
+    background-color: #f7f9fc;
+    padding: 20px;
+}
